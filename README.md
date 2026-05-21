@@ -1,5 +1,6 @@
 
  <h1> <center>✨ KHALED MOHAMMED ✨</center></h1>
+
       
 ## 👤 About Me
 * 💻 **Front-End Developer** passionate about crafting premium web experiences and clean interfaces.
@@ -51,4 +52,4 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
-<img src="https://github.com/blackcater/blackcater/raw/master/images/web-development.gif" align="right" width="350" alt="Programming Animation">
+
