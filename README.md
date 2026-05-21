@@ -1,19 +1,4 @@
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="60%" valign="top">
-        <h1>✨ KHALED MOHAMMED ✨</h1>
-        <h3>🚀 Front-End Developer & UI/UX Designer</h3>
-        <p>مرحباً بك في عالمي البرمجي! أنا مطور واجهات مستخدم وشغوف بتحويل الأفكار المعقدة إلى تصميمات تفاعلية وذكية، مهتم جداً بالتفاصيل وتجربة المستخدم السلسة.</p>
-      </td>
-      <td width="40%" valign="top" align="right">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI0NXY2b3N5YTN5Yzh4OTF0MXQ3ZDBwZXp0bmNreWZpZzV6czB5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgRWacA2_4S40/giphy.gif" width="100%">
-      </td>
-    </tr>
-  </table>
-</div>
-
----
+# Hey there! I'm Khaled Mohammed 👋
 
 ## 👤 About Me
 * 💻 **Front-End Developer** passionate about crafting premium web experiences and clean interfaces.
