@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### Frontend Development
+### Frontend Development : 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -20,13 +20,13 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
 </p>
 
-### Freelancing & E-commerce Platforms
+### Freelancing & E-commerce Platforms I Worked on : 
 <p align="left">
   <img src="https://img.shields.io/badge/Zid-6C3483?style=for-the-badge&logo=shopify&logoColor=white" alt="Zid Platform">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
 </p>
 
-### UI/UX & Graphic Design
+### UI/UX & Graphic Design :
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop">
