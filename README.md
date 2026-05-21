@@ -1,4 +1,4 @@
-# Hey there! I'm Khaled Mohammed 👋
+ Khaled Mohammed
 
 ## 👤 About Me
 * 💻 **Front-End Developer** passionate about crafting premium web experiences and clean interfaces.
