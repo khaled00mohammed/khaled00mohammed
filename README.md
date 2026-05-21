@@ -28,10 +28,16 @@ I'm Khaled Mohammed
 
 ## 🤝 Connect with Me
 <p align="left">
-  <a href="[khaledmohamed01060203868@gmail.com](https://myaccount.google.com/)" target="_blank">
+  <a href="mailto:khaledmohamed01060203868@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/khaled-mohammed-mostafa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://mostaql.com/u/Khaled_M0ohamed" target="_blank">
+    <img src="https://img.shields.io/badge/Mostaql-238636?style=flat-square&logo=freelancer&logoColor=white" alt="Mostaql">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100018322626462" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
