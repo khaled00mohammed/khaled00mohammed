@@ -1,4 +1,4 @@
-I'm Khaled Mohammed 
+# Hey there! I'm Khaled Mohammed 👋
 
 ## 👤 About Me
 * 💻 **Front-End Developer** passionate about crafting premium web experiences and clean interfaces.
@@ -19,9 +19,17 @@ I'm Khaled Mohammed
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
-### UI/UX & Design
+### Freelancing & E-commerce Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Zid-6C3483?style=for-the-badge&logo=shopify&logoColor=white" alt="Zid Platform">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+</p>
+
+### UI/UX & Graphic Design
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black" alt="Illustrator">
 </p>
 
 ---
