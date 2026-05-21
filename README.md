@@ -1,5 +1,5 @@
 
- <h1> <center>✨ KHALED MOHAMMED ✨</center></h1>
+ <h1> <center> KHALED MOHAMMED </center></h1>
 
       
 ## 👤 About Me
