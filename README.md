@@ -28,7 +28,7 @@ I'm Khaled Mohammed
 
 ## 🤝 Connect with Me
 <p align="left">
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="[khaledmohamed01060203868@gmail.com](https://myaccount.google.com/)" target="_blank">
     <img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
